@@ -1,4 +1,4 @@
-# PhamDat | Web3 Developer Relations & Blockchain Engineer
+# Pham Nim | Web3 Developer Relations & Blockchain Engineer
 
 <p align="center">
   <img src="https://img.shields.io/badge/Blockchain-Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
@@ -18,7 +18,7 @@ Passionate **Web3 Developer Relations** professional and **Blockchain Engineer**
 - **Smart Contracts**: Solidity, Move, Rust (Stylus)
 - **DeFi Protocols**: Lending, DEXs, Yield Farming, Asset Management
 - **Cross-Chain Solutions**: Multi-chain integrations and bridges
-- **Layer 2**: Arbitrum, Optimism, Polygon
+- **Layer 2**: Arbitrum, Optimism
 
 ### Technologies & Tools
 - **Frontend**: React, TypeScript, Next.js
@@ -40,23 +40,11 @@ Passionate **Web3 Developer Relations** professional and **Blockchain Engineer**
 - Implemented cross-chain asset management
 - Real-time price feeds and analytics
 
-### [🔐 DigiTrust Protocol](https://github.com/phamdat721101/DigiTrust-contract)
-*Smart contract system for decentralized trust and verification*
-- Designed secure smart contract architecture
-- Integrated with external price feeds
-- Deployed on Ethereum mainnet
-
 ### [₿ BTCFi with Stylus](https://github.com/phamdat721101/btc-stylus)
 *Learning Arbitrum Stylus & BTCFi Use Cases*
 - Rust smart contract development
 - Bitcoin DeFi integration
 - Educational content for developers
-
-### [📱 TrackIt](https://github.com/phamdat721101/trackit)
-*On-chain asset tracking and analytics platform*
-- Real-time portfolio monitoring
-- Multi-chain support
-- Developer-friendly APIs
 
 ## 📚 Recent Contributions & Learning
 
