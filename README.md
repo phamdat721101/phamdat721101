@@ -18,7 +18,7 @@ Passionate **Web3 Developer Relations** professional and **Blockchain Engineer**
 - **Smart Contracts**: Solidity, Move, Rust (Stylus)
 - **DeFi Protocols**: Lending, DEXs, Yield Farming, Asset Management
 - **Cross-Chain Solutions**: Multi-chain integrations and bridges
-- **Layer 2**: Arbitrum, Optimism
+- **Layer 2**: Arbitrum, Optimism, XRPL
 
 ### Technologies & Tools
 - **Frontend**: React, TypeScript, Next.js
@@ -31,6 +31,32 @@ Passionate **Web3 Developer Relations** professional and **Blockchain Engineer**
 - Developer workshops and training
 - Open-source contribution and maintenance
 - Community engagement and support
+
+## 🌟 Strategic Contributions
+
+### 🛠️ Support Web3 Builders with Agentic AI
+**Project:** [**Builder Skills**](https://github.com/phamdat721101/builder-skills)
+> *Building the brain for the next generation of AI Agents to assist Web3 Developers.*
+
+- 🤖 **Agent Skill Sets**: Developing core skills for AI agents to autonomously debug, write, and deploy smart contracts.
+- 📚 **Multi-Chain Education**: Supporting learning paths for **Solidity** (Ethereum), **Rust** (Arbitrum Stylus), and **Move**.
+- 🔗 **Related Protocols**: `Ethereum`, `Arbitrum`, `XRPL`
+
+### 📊 EVM Data Aggregator for XRPL
+**Project:** [**Trackit**](https://github.com/phamdat721101/trackit)
+> *Unlocking data accessibility for the XRPL EVM Sidechain.*
+
+- 🔎 **Data Aggregation**: Building infrastructure to index and query EVM data on XRPL.
+- 🌉 **Cross-Ecosystem Bridge**: Facilitating better data flow between XRP Ledger and EVM chains.
+- 🔗 **Related Protocols**: `XRPL`, `EVM Sidechain`, `Ripple`
+
+### 🏔️ Gamified Quest Platform
+**Project:** [**The Valley**](https://www.the-valley.xyz/)
+> *The premier quest platform driving growth for Web3 projects.*
+
+- ⚔️ **Engage & Earn**: Gamified architecture to boost user retention and engagement through questing.
+- 🛡️ **Community Building**: Tools for guilds and projects to launch competitive campaigns.
+- 🔗 **Related Concepts**: `Gamification`, `Community Growth`, `Web3 Quests`
 
 ## 🏆 Featured Projects
 
@@ -59,15 +85,17 @@ Passionate **Web3 Developer Relations** professional and **Blockchain Engineer**
 - Contributor to blockchain developer tools
 - Educational content creator
 
-## 🤝 Let's Connect
+## 🌐 Community & Socials
 
-I'm passionate about:
-- Building developer-friendly blockchain tools
-- Creating educational content for Web3 developers
-- Contributing to open-source blockchain projects
-- Speaking at developer conferences and meetups
+### 📢 Stay Updated & Connect
+I actively engage with the community and share insights on Web3 development.
 
-**Interested in collaboration or need help with your Web3 project? Feel free to reach out!**
+- 🐦 **Personal Updates**: [**@nxNim9**](https://x.com/nxNim9)
+    > *Daily insights on Web3, DevRel, and Engineering.*
+- 🏟️ **OverGuild Community**: [**@overguildOG**](https://x.com/overguildOG)
+    > *Empowering guilds and players in the Web3 gaming space.*
+
+**Interested in collaboration or need help with your Web3 project? Feel free to reach out via [Twitter/X](https://x.com/nxNim9)!**
 
 ---
 
