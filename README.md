@@ -34,6 +34,20 @@ Passionate **Web3 Developer Relations** professional and **Blockchain Engineer**
 
 ## 🌟 Strategic Contributions
 
+### 🧠 Document-as-a-Service (DaaS) & AI Co-Pilots for Web3
+**Projects:** [**Leo Playbook (Nim Blog)**](https://github.com/phamdat721101/nim-blog) & [**The Valley (OverGuild)**](https://www.the-valley.xyz/)
+> *Transforming static Web3 protocol documentation into interactive, autonomous AI-powered services in seconds.*
+
+- 📚 **Document-as-a-Service**: Architected a robust ingestion pipeline using **FastAPI**, **Gemini Embeddings**, and **pgvector (Supabase)** to scrape, embed, and autonomously spin up AI co-pilots from any protocol documentation URL.
+- 🤖 **Agentic Chat & Playground**: Built interactive AI playgrounds with real-time vector similarity search to assist developers with protocol-specific code examples, integration patterns, and smart contract design.
+- 🌌 **The Archive & The Academy**: Integrated these DaaS capabilities into "The Valley" (OverGuild's gamified platform) as "The Archive" and "The Academy", creating a personalized AI mentor to teach DeFi and Web3.
+- 🖼️ **Proof of Work - DaaS in Action**:
+  <p align="center">
+    <img src="./assets/daas_demo.gif" alt="Document as a Service (DaaS) Demo" width="80%"/>
+    <br/>
+    <em>Leo-book Document-as-a-Service Ingestion & Chat Playground</em>
+  </p>
+
 ### 🛠️ Support Web3 Builders with Agentic AI
 **Project:** [**Builder Skills**](https://github.com/phamdat721101/builder-skills)
 > *Building the brain for the next generation of AI Agents to assist Web3 Developers.*
